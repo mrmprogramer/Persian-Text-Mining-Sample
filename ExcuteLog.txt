@@ -1,0 +1,3000 @@
+*******************************
+filename:0.txt
+allword:658
+after remove Stop word:603
+stemm set size : 307
+*******************************
+filename:1.txt
+allword:392
+after remove Stop word:356
+stemm set size : 177
+*******************************
+filename:10.txt
+allword:126
+after remove Stop word:110
+stemm set size : 63
+*******************************
+filename:100.txt
+allword:270
+after remove Stop word:244
+stemm set size : 150
+*******************************
+filename:1000.txt
+allword:96
+after remove Stop word:89
+stemm set size : 65
+*******************************
+filename:10000.txt
+allword:97
+after remove Stop word:83
+stemm set size : 55
+*******************************
+filename:10001.txt
+allword:324
+after remove Stop word:309
+stemm set size : 182
+*******************************
+filename:10002.txt
+allword:373
+after remove Stop word:340
+stemm set size : 207
+*******************************
+filename:10003.txt
+allword:137
+after remove Stop word:125
+stemm set size : 87
+*******************************
+filename:10004.txt
+allword:150
+after remove Stop word:135
+stemm set size : 90
+*******************************
+filename:10005.txt
+allword:68
+after remove Stop word:59
+stemm set size : 55
+*******************************
+filename:10006.txt
+allword:126
+after remove Stop word:113
+stemm set size : 78
+*******************************
+filename:10007.txt
+allword:164
+after remove Stop word:150
+stemm set size : 101
+*******************************
+filename:10008.txt
+allword:76
+after remove Stop word:68
+stemm set size : 56
+*******************************
+filename:10009.txt
+allword:405
+after remove Stop word:366
+stemm set size : 221
+*******************************
+filename:1001.txt
+allword:107
+after remove Stop word:99
+stemm set size : 73
+*******************************
+filename:10010.txt
+allword:84
+after remove Stop word:72
+stemm set size : 51
+*******************************
+filename:10011.txt
+allword:462
+after remove Stop word:427
+stemm set size : 211
+*******************************
+filename:10012.txt
+allword:45
+after remove Stop word:37
+stemm set size : 32
+*******************************
+filename:10013.txt
+allword:168
+after remove Stop word:153
+stemm set size : 102
+*******************************
+filename:10014.txt
+allword:379
+after remove Stop word:354
+stemm set size : 174
+*******************************
+filename:10015.txt
+allword:923
+after remove Stop word:882
+stemm set size : 387
+*******************************
+filename:10016.txt
+allword:93
+after remove Stop word:83
+stemm set size : 66
+*******************************
+filename:10017.txt
+allword:91
+after remove Stop word:77
+stemm set size : 51
+*******************************
+filename:10018.txt
+allword:71
+after remove Stop word:65
+stemm set size : 54
+*******************************
+filename:10019.txt
+allword:135
+after remove Stop word:126
+stemm set size : 101
+*******************************
+filename:1002.txt
+allword:139
+after remove Stop word:128
+stemm set size : 80
+*******************************
+filename:10020.txt
+allword:274
+after remove Stop word:256
+stemm set size : 141
+*******************************
+filename:10021.txt
+allword:393
+after remove Stop word:359
+stemm set size : 216
+*******************************
+filename:10022.txt
+allword:519
+after remove Stop word:487
+stemm set size : 266
+*******************************
+filename:10023.txt
+allword:158
+after remove Stop word:142
+stemm set size : 98
+*******************************
+filename:10024.txt
+allword:552
+after remove Stop word:511
+stemm set size : 281
+*******************************
+filename:10025.txt
+allword:1681
+after remove Stop word:1608
+stemm set size : 585
+*******************************
+filename:10026.txt
+allword:1279
+after remove Stop word:1209
+stemm set size : 541
+*******************************
+filename:10027.txt
+allword:356
+after remove Stop word:330
+stemm set size : 177
+*******************************
+filename:10028.txt
+allword:606
+after remove Stop word:565
+stemm set size : 288
+*******************************
+filename:10029.txt
+allword:220
+after remove Stop word:198
+stemm set size : 114
+*******************************
+filename:1003.txt
+allword:54
+after remove Stop word:47
+stemm set size : 35
+*******************************
+filename:10030.txt
+allword:229
+after remove Stop word:215
+stemm set size : 123
+*******************************
+filename:10031.txt
+allword:404
+after remove Stop word:376
+stemm set size : 211
+*******************************
+filename:10032.txt
+allword:172
+after remove Stop word:157
+stemm set size : 86
+*******************************
+filename:10033.txt
+allword:89
+after remove Stop word:77
+stemm set size : 64
+*******************************
+filename:10034.txt
+allword:247
+after remove Stop word:223
+stemm set size : 133
+*******************************
+filename:10035.txt
+allword:1213
+after remove Stop word:1147
+stemm set size : 564
+*******************************
+filename:10036.txt
+allword:279
+after remove Stop word:251
+stemm set size : 163
+*******************************
+filename:10037.txt
+allword:60
+after remove Stop word:54
+stemm set size : 48
+*******************************
+filename:10038.txt
+allword:146
+after remove Stop word:131
+stemm set size : 97
+*******************************
+filename:10039.txt
+allword:110
+after remove Stop word:97
+stemm set size : 77
+*******************************
+filename:1004.txt
+allword:49
+after remove Stop word:41
+stemm set size : 38
+*******************************
+filename:10040.txt
+allword:38
+after remove Stop word:32
+stemm set size : 32
+*******************************
+filename:10041.txt
+allword:203
+after remove Stop word:178
+stemm set size : 116
+*******************************
+filename:10042.txt
+allword:46
+after remove Stop word:38
+stemm set size : 31
+*******************************
+filename:10043.txt
+allword:105
+after remove Stop word:90
+stemm set size : 69
+*******************************
+filename:10044.txt
+allword:943
+after remove Stop word:884
+stemm set size : 479
+*******************************
+filename:10045.txt
+allword:86
+after remove Stop word:80
+stemm set size : 59
+*******************************
+filename:10046.txt
+allword:88
+after remove Stop word:80
+stemm set size : 66
+*******************************
+filename:10047.txt
+allword:66
+after remove Stop word:56
+stemm set size : 42
+*******************************
+filename:10048.txt
+allword:103
+after remove Stop word:90
+stemm set size : 73
+*******************************
+filename:10049.txt
+allword:100
+after remove Stop word:88
+stemm set size : 69
+*******************************
+filename:1005.txt
+allword:117
+after remove Stop word:105
+stemm set size : 67
+*******************************
+filename:10050.txt
+allword:150
+after remove Stop word:134
+stemm set size : 83
+*******************************
+filename:10051.txt
+allword:157
+after remove Stop word:145
+stemm set size : 97
+*******************************
+filename:10052.txt
+allword:130
+after remove Stop word:119
+stemm set size : 85
+*******************************
+filename:10053.txt
+allword:958
+after remove Stop word:901
+stemm set size : 458
+*******************************
+filename:10054.txt
+allword:252
+after remove Stop word:220
+stemm set size : 136
+*******************************
+filename:10055.txt
+allword:214
+after remove Stop word:185
+stemm set size : 120
+*******************************
+filename:10056.txt
+allword:267
+after remove Stop word:244
+stemm set size : 132
+*******************************
+filename:10057.txt
+allword:128
+after remove Stop word:116
+stemm set size : 82
+*******************************
+filename:10058.txt
+allword:1987
+after remove Stop word:1909
+stemm set size : 791
+*******************************
+filename:10059.txt
+allword:921
+after remove Stop word:874
+stemm set size : 384
+*******************************
+filename:1006.txt
+allword:102
+after remove Stop word:87
+stemm set size : 70
+*******************************
+filename:10060.txt
+allword:153
+after remove Stop word:136
+stemm set size : 95
+*******************************
+filename:10061.txt
+allword:122
+after remove Stop word:111
+stemm set size : 79
+*******************************
+filename:10062.txt
+allword:195
+after remove Stop word:179
+stemm set size : 116
+*******************************
+filename:10063.txt
+allword:221
+after remove Stop word:199
+stemm set size : 125
+*******************************
+filename:10064.txt
+allword:46
+after remove Stop word:39
+stemm set size : 33
+*******************************
+filename:10065.txt
+allword:168
+after remove Stop word:153
+stemm set size : 96
+*******************************
+filename:10066.txt
+allword:122
+after remove Stop word:113
+stemm set size : 78
+*******************************
+filename:10067.txt
+allword:335
+after remove Stop word:303
+stemm set size : 183
+*******************************
+filename:10068.txt
+allword:220
+after remove Stop word:203
+stemm set size : 115
+*******************************
+filename:10069.txt
+allword:120
+after remove Stop word:105
+stemm set size : 85
+*******************************
+filename:1007.txt
+allword:50
+after remove Stop word:40
+stemm set size : 32
+*******************************
+filename:10070.txt
+allword:885
+after remove Stop word:827
+stemm set size : 390
+*******************************
+filename:10071.txt
+allword:172
+after remove Stop word:151
+stemm set size : 90
+*******************************
+filename:10072.txt
+allword:630
+after remove Stop word:593
+stemm set size : 320
+*******************************
+filename:10073.txt
+allword:473
+after remove Stop word:438
+stemm set size : 220
+*******************************
+filename:10074.txt
+allword:158
+after remove Stop word:142
+stemm set size : 96
+*******************************
+filename:10075.txt
+allword:455
+after remove Stop word:435
+stemm set size : 224
+*******************************
+filename:10076.txt
+allword:60
+after remove Stop word:48
+stemm set size : 44
+*******************************
+filename:10077.txt
+allword:135
+after remove Stop word:120
+stemm set size : 81
+*******************************
+filename:10078.txt
+allword:190
+after remove Stop word:177
+stemm set size : 134
+*******************************
+filename:10079.txt
+allword:276
+after remove Stop word:260
+stemm set size : 143
+*******************************
+filename:1008.txt
+allword:25
+after remove Stop word:21
+stemm set size : 20
+*******************************
+filename:10080.txt
+allword:796
+after remove Stop word:748
+stemm set size : 334
+*******************************
+filename:10081.txt
+allword:1143
+after remove Stop word:1099
+stemm set size : 474
+*******************************
+filename:10082.txt
+allword:74
+after remove Stop word:64
+stemm set size : 56
+*******************************
+filename:10083.txt
+allword:119
+after remove Stop word:105
+stemm set size : 69
+*******************************
+filename:10084.txt
+allword:111
+after remove Stop word:99
+stemm set size : 78
+*******************************
+filename:10085.txt
+allword:175
+after remove Stop word:159
+stemm set size : 100
+*******************************
+filename:10086.txt
+allword:178
+after remove Stop word:159
+stemm set size : 102
+*******************************
+filename:10087.txt
+allword:208
+after remove Stop word:184
+stemm set size : 121
+*******************************
+filename:10088.txt
+allword:235
+after remove Stop word:220
+stemm set size : 128
+*******************************
+filename:10089.txt
+allword:218
+after remove Stop word:193
+stemm set size : 132
+*******************************
+filename:1009.txt
+allword:91
+after remove Stop word:87
+stemm set size : 53
+*******************************
+filename:10090.txt
+allword:133
+after remove Stop word:120
+stemm set size : 78
+*******************************
+filename:10091.txt
+allword:70
+after remove Stop word:57
+stemm set size : 47
+*******************************
+filename:10092.txt
+allword:937
+after remove Stop word:889
+stemm set size : 432
+*******************************
+filename:10093.txt
+allword:909
+after remove Stop word:870
+stemm set size : 342
+*******************************
+filename:10094.txt
+allword:737
+after remove Stop word:688
+stemm set size : 345
+*******************************
+filename:10095.txt
+allword:424
+after remove Stop word:407
+stemm set size : 255
+*******************************
+filename:10096.txt
+allword:1748
+after remove Stop word:1677
+stemm set size : 688
+*******************************
+filename:10097.txt
+allword:205
+after remove Stop word:186
+stemm set size : 111
+*******************************
+filename:10098.txt
+allword:1801
+after remove Stop word:1729
+stemm set size : 609
+*******************************
+filename:10099.txt
+allword:176
+after remove Stop word:164
+stemm set size : 112
+*******************************
+filename:101.txt
+allword:66
+after remove Stop word:55
+stemm set size : 43
+*******************************
+filename:1010.txt
+allword:108
+after remove Stop word:102
+stemm set size : 62
+*******************************
+filename:10100.txt
+allword:175
+after remove Stop word:166
+stemm set size : 92
+*******************************
+filename:10101.txt
+allword:48
+after remove Stop word:41
+stemm set size : 39
+*******************************
+filename:10102.txt
+allword:623
+after remove Stop word:586
+stemm set size : 269
+*******************************
+filename:10103.txt
+allword:140
+after remove Stop word:131
+stemm set size : 88
+*******************************
+filename:10104.txt
+allword:759
+after remove Stop word:716
+stemm set size : 324
+*******************************
+filename:10105.txt
+allword:348
+after remove Stop word:310
+stemm set size : 173
+*******************************
+filename:10106.txt
+allword:1171
+after remove Stop word:1101
+stemm set size : 524
+*******************************
+filename:10107.txt
+allword:217
+after remove Stop word:202
+stemm set size : 132
+*******************************
+filename:10108.txt
+allword:251
+after remove Stop word:236
+stemm set size : 138
+*******************************
+filename:10109.txt
+allword:1454
+after remove Stop word:1391
+stemm set size : 472
+*******************************
+filename:1011.txt
+allword:111
+after remove Stop word:94
+stemm set size : 65
+*******************************
+filename:10110.txt
+allword:1104
+after remove Stop word:1052
+stemm set size : 516
+*******************************
+filename:10111.txt
+allword:970
+after remove Stop word:914
+stemm set size : 482
+*******************************
+filename:10112.txt
+allword:96
+after remove Stop word:91
+stemm set size : 65
+*******************************
+filename:10113.txt
+allword:52
+after remove Stop word:47
+stemm set size : 41
+*******************************
+filename:10114.txt
+allword:35
+after remove Stop word:31
+stemm set size : 27
+*******************************
+filename:10115.txt
+allword:52
+after remove Stop word:44
+stemm set size : 35
+*******************************
+filename:10116.txt
+allword:149
+after remove Stop word:137
+stemm set size : 98
+*******************************
+filename:10117.txt
+allword:155
+after remove Stop word:139
+stemm set size : 105
+*******************************
+filename:10118.txt
+allword:82
+after remove Stop word:73
+stemm set size : 49
+*******************************
+filename:10119.txt
+allword:165
+after remove Stop word:148
+stemm set size : 86
+*******************************
+filename:1012.txt
+allword:140
+after remove Stop word:130
+stemm set size : 83
+*******************************
+filename:10120.txt
+allword:234
+after remove Stop word:207
+stemm set size : 137
+*******************************
+filename:10121.txt
+allword:30
+after remove Stop word:28
+stemm set size : 25
+*******************************
+filename:10122.txt
+allword:664
+after remove Stop word:623
+stemm set size : 279
+*******************************
+filename:10123.txt
+allword:769
+after remove Stop word:727
+stemm set size : 314
+*******************************
+filename:10124.txt
+allword:167
+after remove Stop word:151
+stemm set size : 112
+*******************************
+filename:10125.txt
+allword:216
+after remove Stop word:195
+stemm set size : 112
+*******************************
+filename:10126.txt
+allword:233
+after remove Stop word:209
+stemm set size : 133
+*******************************
+filename:10127.txt
+allword:232
+after remove Stop word:210
+stemm set size : 128
+*******************************
+filename:10128.txt
+allword:174
+after remove Stop word:151
+stemm set size : 93
+*******************************
+filename:10129.txt
+allword:136
+after remove Stop word:123
+stemm set size : 80
+*******************************
+filename:1013.txt
+allword:71
+after remove Stop word:67
+stemm set size : 53
+*******************************
+filename:10130.txt
+allword:301
+after remove Stop word:276
+stemm set size : 159
+*******************************
+filename:10131.txt
+allword:128
+after remove Stop word:113
+stemm set size : 69
+*******************************
+filename:10132.txt
+allword:105
+after remove Stop word:95
+stemm set size : 71
+*******************************
+filename:10133.txt
+allword:867
+after remove Stop word:810
+stemm set size : 384
+*******************************
+filename:10134.txt
+allword:1864
+after remove Stop word:1792
+stemm set size : 716
+*******************************
+filename:10135.txt
+allword:474
+after remove Stop word:434
+stemm set size : 262
+*******************************
+filename:10136.txt
+allword:34
+after remove Stop word:25
+stemm set size : 24
+*******************************
+filename:10137.txt
+allword:100
+after remove Stop word:88
+stemm set size : 69
+*******************************
+filename:10138.txt
+allword:142
+after remove Stop word:123
+stemm set size : 82
+*******************************
+filename:10139.txt
+allword:90
+after remove Stop word:78
+stemm set size : 57
+*******************************
+filename:1014.txt
+allword:92
+after remove Stop word:83
+stemm set size : 64
+*******************************
+filename:10140.txt
+allword:90
+after remove Stop word:76
+stemm set size : 61
+*******************************
+filename:10141.txt
+allword:369
+after remove Stop word:347
+stemm set size : 207
+*******************************
+filename:10142.txt
+allword:356
+after remove Stop word:329
+stemm set size : 188
+*******************************
+filename:10143.txt
+allword:156
+after remove Stop word:138
+stemm set size : 89
+*******************************
+filename:10144.txt
+allword:55
+after remove Stop word:46
+stemm set size : 40
+*******************************
+filename:10145.txt
+allword:100
+after remove Stop word:86
+stemm set size : 59
+*******************************
+filename:10146.txt
+allword:86
+after remove Stop word:71
+stemm set size : 57
+*******************************
+filename:10147.txt
+allword:144
+after remove Stop word:132
+stemm set size : 88
+*******************************
+filename:10148.txt
+allword:86
+after remove Stop word:81
+stemm set size : 51
+*******************************
+filename:10149.txt
+allword:1383
+after remove Stop word:1308
+stemm set size : 548
+*******************************
+filename:1015.txt
+allword:234
+after remove Stop word:208
+stemm set size : 124
+*******************************
+filename:10150.txt
+allword:284
+after remove Stop word:267
+stemm set size : 157
+*******************************
+filename:10151.txt
+allword:69
+after remove Stop word:60
+stemm set size : 49
+*******************************
+filename:10152.txt
+allword:59
+after remove Stop word:50
+stemm set size : 37
+*******************************
+filename:10153.txt
+allword:257
+after remove Stop word:236
+stemm set size : 148
+*******************************
+filename:10154.txt
+allword:221
+after remove Stop word:205
+stemm set size : 116
+*******************************
+filename:10155.txt
+allword:111
+after remove Stop word:102
+stemm set size : 74
+*******************************
+filename:10156.txt
+allword:129
+after remove Stop word:111
+stemm set size : 81
+*******************************
+filename:10157.txt
+allword:355
+after remove Stop word:331
+stemm set size : 194
+*******************************
+filename:10158.txt
+allword:383
+after remove Stop word:360
+stemm set size : 176
+*******************************
+filename:10159.txt
+allword:538
+after remove Stop word:512
+stemm set size : 267
+*******************************
+filename:1016.txt
+allword:153
+after remove Stop word:134
+stemm set size : 94
+*******************************
+filename:10160.txt
+allword:176
+after remove Stop word:163
+stemm set size : 108
+*******************************
+filename:10161.txt
+allword:250
+after remove Stop word:235
+stemm set size : 111
+*******************************
+filename:10162.txt
+allword:44
+after remove Stop word:38
+stemm set size : 34
+*******************************
+filename:10163.txt
+allword:229
+after remove Stop word:209
+stemm set size : 129
+*******************************
+filename:10164.txt
+allword:116
+after remove Stop word:103
+stemm set size : 70
+*******************************
+filename:10165.txt
+allword:173
+after remove Stop word:159
+stemm set size : 110
+*******************************
+filename:10166.txt
+allword:220
+after remove Stop word:211
+stemm set size : 132
+*******************************
+filename:10167.txt
+allword:247
+after remove Stop word:228
+stemm set size : 136
+*******************************
+filename:10168.txt
+allword:197
+after remove Stop word:180
+stemm set size : 118
+*******************************
+filename:10169.txt
+allword:173
+after remove Stop word:158
+stemm set size : 102
+*******************************
+filename:1017.txt
+allword:844
+after remove Stop word:787
+stemm set size : 366
+*******************************
+filename:10170.txt
+allword:927
+after remove Stop word:875
+stemm set size : 370
+*******************************
+filename:10171.txt
+allword:137
+after remove Stop word:122
+stemm set size : 88
+*******************************
+filename:10172.txt
+allword:341
+after remove Stop word:318
+stemm set size : 172
+*******************************
+filename:10173.txt
+allword:831
+after remove Stop word:771
+stemm set size : 376
+*******************************
+filename:10174.txt
+allword:375
+after remove Stop word:348
+stemm set size : 172
+*******************************
+filename:10175.txt
+allword:991
+after remove Stop word:934
+stemm set size : 422
+*******************************
+filename:10176.txt
+allword:1515
+after remove Stop word:1444
+stemm set size : 672
+*******************************
+filename:10177.txt
+allword:212
+after remove Stop word:190
+stemm set size : 110
+*******************************
+filename:10178.txt
+allword:144
+after remove Stop word:131
+stemm set size : 83
+*******************************
+filename:10179.txt
+allword:2148
+after remove Stop word:2070
+stemm set size : 855
+*******************************
+filename:1018.txt
+allword:74
+after remove Stop word:62
+stemm set size : 47
+*******************************
+filename:10180.txt
+allword:115
+after remove Stop word:105
+stemm set size : 71
+*******************************
+filename:10181.txt
+allword:550
+after remove Stop word:516
+stemm set size : 260
+*******************************
+filename:10182.txt
+allword:330
+after remove Stop word:307
+stemm set size : 163
+*******************************
+filename:10183.txt
+allword:155
+after remove Stop word:146
+stemm set size : 94
+*******************************
+filename:10184.txt
+allword:123
+after remove Stop word:108
+stemm set size : 77
+*******************************
+filename:10185.txt
+allword:128
+after remove Stop word:115
+stemm set size : 71
+*******************************
+filename:10186.txt
+allword:205
+after remove Stop word:188
+stemm set size : 128
+*******************************
+filename:10187.txt
+allword:47
+after remove Stop word:39
+stemm set size : 35
+*******************************
+filename:10188.txt
+allword:224
+after remove Stop word:206
+stemm set size : 128
+*******************************
+filename:10189.txt
+allword:1409
+after remove Stop word:1352
+stemm set size : 582
+*******************************
+filename:1019.txt
+allword:85
+after remove Stop word:83
+stemm set size : 50
+*******************************
+filename:10190.txt
+allword:395
+after remove Stop word:370
+stemm set size : 224
+*******************************
+filename:10191.txt
+allword:1431
+after remove Stop word:1380
+stemm set size : 643
+*******************************
+filename:10192.txt
+allword:176
+after remove Stop word:162
+stemm set size : 107
+*******************************
+filename:10193.txt
+allword:1043
+after remove Stop word:977
+stemm set size : 478
+*******************************
+filename:10194.txt
+allword:129
+after remove Stop word:107
+stemm set size : 80
+*******************************
+filename:10195.txt
+allword:113
+after remove Stop word:90
+stemm set size : 68
+*******************************
+filename:10196.txt
+allword:138
+after remove Stop word:120
+stemm set size : 92
+*******************************
+filename:10197.txt
+allword:74
+after remove Stop word:63
+stemm set size : 50
+*******************************
+filename:10198.txt
+allword:184
+after remove Stop word:175
+stemm set size : 120
+*******************************
+filename:10199.txt
+allword:36
+after remove Stop word:30
+stemm set size : 28
+*******************************
+filename:102.txt
+allword:73
+after remove Stop word:65
+stemm set size : 50
+*******************************
+filename:1020.txt
+allword:231
+after remove Stop word:221
+stemm set size : 97
+*******************************
+filename:1021.txt
+allword:68
+after remove Stop word:63
+stemm set size : 57
+*******************************
+filename:1022.txt
+allword:119
+after remove Stop word:102
+stemm set size : 65
+*******************************
+filename:1023.txt
+allword:1013
+after remove Stop word:953
+stemm set size : 421
+*******************************
+filename:1024.txt
+allword:76
+after remove Stop word:62
+stemm set size : 53
+*******************************
+filename:1025.txt
+allword:54
+after remove Stop word:47
+stemm set size : 39
+*******************************
+filename:1026.txt
+allword:222
+after remove Stop word:213
+stemm set size : 108
+*******************************
+filename:1027.txt
+allword:1219
+after remove Stop word:1148
+stemm set size : 460
+*******************************
+filename:1028.txt
+allword:336
+after remove Stop word:307
+stemm set size : 180
+*******************************
+filename:1029.txt
+allword:292
+after remove Stop word:263
+stemm set size : 153
+*******************************
+filename:103.txt
+allword:107
+after remove Stop word:94
+stemm set size : 68
+*******************************
+filename:1030.txt
+allword:1376
+after remove Stop word:1319
+stemm set size : 550
+*******************************
+filename:1031.txt
+allword:319
+after remove Stop word:306
+stemm set size : 156
+*******************************
+filename:1032.txt
+allword:190
+after remove Stop word:174
+stemm set size : 107
+*******************************
+filename:1033.txt
+allword:113
+after remove Stop word:107
+stemm set size : 73
+*******************************
+filename:1034.txt
+allword:143
+after remove Stop word:125
+stemm set size : 84
+*******************************
+filename:1035.txt
+allword:645
+after remove Stop word:607
+stemm set size : 295
+*******************************
+filename:1036.txt
+allword:1517
+after remove Stop word:1440
+stemm set size : 709
+*******************************
+filename:1037.txt
+allword:101
+after remove Stop word:85
+stemm set size : 60
+*******************************
+filename:1038.txt
+allword:101
+after remove Stop word:90
+stemm set size : 62
+*******************************
+filename:1039.txt
+allword:92
+after remove Stop word:73
+stemm set size : 59
+*******************************
+filename:104.txt
+allword:120
+after remove Stop word:99
+stemm set size : 74
+*******************************
+filename:1040.txt
+allword:281
+after remove Stop word:267
+stemm set size : 156
+*******************************
+filename:1041.txt
+allword:127
+after remove Stop word:109
+stemm set size : 80
+*******************************
+filename:1042.txt
+allword:215
+after remove Stop word:205
+stemm set size : 120
+*******************************
+filename:1043.txt
+allword:1059
+after remove Stop word:1001
+stemm set size : 542
+*******************************
+filename:1044.txt
+allword:1243
+after remove Stop word:1175
+stemm set size : 564
+*******************************
+filename:1045.txt
+allword:571
+after remove Stop word:530
+stemm set size : 269
+*******************************
+filename:1046.txt
+allword:138
+after remove Stop word:122
+stemm set size : 80
+*******************************
+filename:1047.txt
+allword:156
+after remove Stop word:141
+stemm set size : 81
+*******************************
+filename:1048.txt
+allword:122
+after remove Stop word:107
+stemm set size : 71
+*******************************
+filename:1049.txt
+allword:288
+after remove Stop word:261
+stemm set size : 152
+*******************************
+filename:105.txt
+allword:79
+after remove Stop word:64
+stemm set size : 50
+*******************************
+filename:1050.txt
+allword:134
+after remove Stop word:125
+stemm set size : 87
+*******************************
+filename:1051.txt
+allword:54
+after remove Stop word:43
+stemm set size : 33
+*******************************
+filename:1052.txt
+allword:133
+after remove Stop word:123
+stemm set size : 84
+*******************************
+filename:1053.txt
+allword:216
+after remove Stop word:191
+stemm set size : 135
+*******************************
+filename:1054.txt
+allword:387
+after remove Stop word:358
+stemm set size : 193
+*******************************
+filename:1055.txt
+allword:786
+after remove Stop word:736
+stemm set size : 433
+*******************************
+filename:1056.txt
+allword:105
+after remove Stop word:93
+stemm set size : 66
+*******************************
+filename:1057.txt
+allword:327
+after remove Stop word:293
+stemm set size : 171
+*******************************
+filename:1058.txt
+allword:151
+after remove Stop word:136
+stemm set size : 96
+*******************************
+filename:1059.txt
+allword:294
+after remove Stop word:263
+stemm set size : 162
+*******************************
+filename:106.txt
+allword:78
+after remove Stop word:66
+stemm set size : 50
+*******************************
+filename:1060.txt
+allword:54
+after remove Stop word:44
+stemm set size : 37
+*******************************
+filename:1061.txt
+allword:82
+after remove Stop word:69
+stemm set size : 56
+*******************************
+filename:1062.txt
+allword:151
+after remove Stop word:134
+stemm set size : 89
+*******************************
+filename:1063.txt
+allword:374
+after remove Stop word:335
+stemm set size : 193
+*******************************
+filename:1064.txt
+allword:66
+after remove Stop word:55
+stemm set size : 46
+*******************************
+filename:1065.txt
+allword:626
+after remove Stop word:593
+stemm set size : 292
+*******************************
+filename:1066.txt
+allword:261
+after remove Stop word:242
+stemm set size : 158
+*******************************
+filename:1067.txt
+allword:33
+after remove Stop word:28
+stemm set size : 25
+*******************************
+filename:1068.txt
+allword:3408
+after remove Stop word:3310
+stemm set size : 1204
+*******************************
+filename:1069.txt
+allword:22
+after remove Stop word:18
+stemm set size : 17
+*******************************
+filename:107.txt
+allword:76
+after remove Stop word:60
+stemm set size : 50
+*******************************
+filename:1070.txt
+allword:116
+after remove Stop word:106
+stemm set size : 72
+*******************************
+filename:1071.txt
+allword:202
+after remove Stop word:183
+stemm set size : 117
+*******************************
+filename:1072.txt
+allword:99
+after remove Stop word:90
+stemm set size : 67
+*******************************
+filename:1073.txt
+allword:178
+after remove Stop word:163
+stemm set size : 102
+*******************************
+filename:1074.txt
+allword:784
+after remove Stop word:747
+stemm set size : 383
+*******************************
+filename:1075.txt
+allword:100
+after remove Stop word:88
+stemm set size : 64
+*******************************
+filename:1076.txt
+allword:1447
+after remove Stop word:1373
+stemm set size : 565
+*******************************
+filename:1077.txt
+allword:97
+after remove Stop word:90
+stemm set size : 68
+*******************************
+filename:1078.txt
+allword:109
+after remove Stop word:95
+stemm set size : 73
+*******************************
+filename:1079.txt
+allword:67
+after remove Stop word:58
+stemm set size : 49
+*******************************
+filename:108.txt
+allword:122
+after remove Stop word:112
+stemm set size : 87
+*******************************
+filename:1080.txt
+allword:136
+after remove Stop word:130
+stemm set size : 69
+*******************************
+filename:1081.txt
+allword:185
+after remove Stop word:164
+stemm set size : 106
+*******************************
+filename:1082.txt
+allword:196
+after remove Stop word:175
+stemm set size : 106
+*******************************
+filename:1083.txt
+allword:46
+after remove Stop word:38
+stemm set size : 33
+*******************************
+filename:1084.txt
+allword:64
+after remove Stop word:60
+stemm set size : 36
+*******************************
+filename:1085.txt
+allword:107
+after remove Stop word:100
+stemm set size : 73
+*******************************
+filename:1086.txt
+allword:497
+after remove Stop word:471
+stemm set size : 183
+*******************************
+filename:1087.txt
+allword:85
+after remove Stop word:79
+stemm set size : 51
+*******************************
+filename:0.txt
+allword:658
+after remove Stop word:603
+stemm set size : 307
+*******************************
+filename:1.txt
+allword:392
+after remove Stop word:356
+stemm set size : 177
+*******************************
+filename:10.txt
+allword:126
+after remove Stop word:110
+stemm set size : 63
+*******************************
+filename:100.txt
+allword:270
+after remove Stop word:244
+stemm set size : 150
+*******************************
+filename:1000.txt
+allword:96
+after remove Stop word:89
+stemm set size : 65
+*******************************
+filename:10000.txt
+allword:97
+after remove Stop word:83
+stemm set size : 55
+*******************************
+filename:10001.txt
+allword:324
+after remove Stop word:309
+stemm set size : 182
+*******************************
+filename:10002.txt
+allword:373
+after remove Stop word:340
+stemm set size : 207
+*******************************
+filename:10003.txt
+allword:137
+after remove Stop word:125
+stemm set size : 87
+*******************************
+filename:10004.txt
+allword:150
+after remove Stop word:135
+stemm set size : 90
+*******************************
+filename:10005.txt
+allword:68
+after remove Stop word:59
+stemm set size : 55
+*******************************
+filename:10006.txt
+allword:126
+after remove Stop word:113
+stemm set size : 78
+*******************************
+filename:10007.txt
+allword:164
+after remove Stop word:150
+stemm set size : 101
+*******************************
+filename:10008.txt
+allword:76
+after remove Stop word:68
+stemm set size : 56
+*******************************
+filename:10009.txt
+allword:405
+after remove Stop word:366
+stemm set size : 221
+*******************************
+filename:1001.txt
+allword:107
+after remove Stop word:99
+stemm set size : 73
+*******************************
+filename:10010.txt
+allword:84
+after remove Stop word:72
+stemm set size : 51
+*******************************
+filename:10011.txt
+allword:462
+after remove Stop word:427
+stemm set size : 211
+*******************************
+filename:10012.txt
+allword:45
+after remove Stop word:37
+stemm set size : 32
+*******************************
+filename:10013.txt
+allword:168
+after remove Stop word:153
+stemm set size : 102
+*******************************
+filename:10014.txt
+allword:379
+after remove Stop word:354
+stemm set size : 174
+*******************************
+filename:10015.txt
+allword:923
+after remove Stop word:882
+stemm set size : 387
+*******************************
+filename:10016.txt
+allword:93
+after remove Stop word:83
+stemm set size : 66
+*******************************
+filename:10017.txt
+allword:91
+after remove Stop word:77
+stemm set size : 51
+*******************************
+filename:10018.txt
+allword:71
+after remove Stop word:65
+stemm set size : 54
+*******************************
+filename:10019.txt
+allword:135
+after remove Stop word:126
+stemm set size : 101
+*******************************
+filename:1002.txt
+allword:139
+after remove Stop word:128
+stemm set size : 80
+*******************************
+filename:10020.txt
+allword:274
+after remove Stop word:256
+stemm set size : 141
+*******************************
+filename:10021.txt
+allword:393
+after remove Stop word:359
+stemm set size : 216
+*******************************
+filename:10022.txt
+allword:519
+after remove Stop word:487
+stemm set size : 266
+*******************************
+filename:10023.txt
+allword:158
+after remove Stop word:142
+stemm set size : 98
+*******************************
+filename:10024.txt
+allword:552
+after remove Stop word:511
+stemm set size : 281
+*******************************
+filename:10025.txt
+allword:1681
+after remove Stop word:1608
+stemm set size : 585
+*******************************
+filename:10026.txt
+allword:1279
+after remove Stop word:1209
+stemm set size : 541
+*******************************
+filename:10027.txt
+allword:356
+after remove Stop word:330
+stemm set size : 177
+*******************************
+filename:10028.txt
+allword:606
+after remove Stop word:565
+stemm set size : 288
+*******************************
+filename:10029.txt
+allword:220
+after remove Stop word:198
+stemm set size : 114
+*******************************
+filename:1003.txt
+allword:54
+after remove Stop word:47
+stemm set size : 35
+*******************************
+filename:10030.txt
+allword:229
+after remove Stop word:215
+stemm set size : 123
+*******************************
+filename:10031.txt
+allword:404
+after remove Stop word:376
+stemm set size : 211
+*******************************
+filename:10032.txt
+allword:172
+after remove Stop word:157
+stemm set size : 86
+*******************************
+filename:10033.txt
+allword:89
+after remove Stop word:77
+stemm set size : 64
+*******************************
+filename:10034.txt
+allword:247
+after remove Stop word:223
+stemm set size : 133
+*******************************
+filename:10035.txt
+allword:1213
+after remove Stop word:1147
+stemm set size : 564
+*******************************
+filename:10036.txt
+allword:279
+after remove Stop word:251
+stemm set size : 163
+*******************************
+filename:10037.txt
+allword:60
+after remove Stop word:54
+stemm set size : 48
+*******************************
+filename:10038.txt
+allword:146
+after remove Stop word:131
+stemm set size : 97
+*******************************
+filename:10039.txt
+allword:110
+after remove Stop word:97
+stemm set size : 77
+*******************************
+filename:1004.txt
+allword:49
+after remove Stop word:41
+stemm set size : 38
+*******************************
+filename:10040.txt
+allword:38
+after remove Stop word:32
+stemm set size : 32
+*******************************
+filename:10041.txt
+allword:203
+after remove Stop word:178
+stemm set size : 116
+*******************************
+filename:10042.txt
+allword:46
+after remove Stop word:38
+stemm set size : 31
+*******************************
+filename:10043.txt
+allword:105
+after remove Stop word:90
+stemm set size : 69
+*******************************
+filename:10044.txt
+allword:943
+after remove Stop word:884
+stemm set size : 479
+*******************************
+filename:10045.txt
+allword:86
+after remove Stop word:80
+stemm set size : 59
+*******************************
+filename:10046.txt
+allword:88
+after remove Stop word:80
+stemm set size : 66
+*******************************
+filename:10047.txt
+allword:66
+after remove Stop word:56
+stemm set size : 42
+*******************************
+filename:10048.txt
+allword:103
+after remove Stop word:90
+stemm set size : 73
+*******************************
+filename:10049.txt
+allword:100
+after remove Stop word:88
+stemm set size : 69
+*******************************
+filename:1005.txt
+allword:117
+after remove Stop word:105
+stemm set size : 67
+*******************************
+filename:10050.txt
+allword:150
+after remove Stop word:134
+stemm set size : 83
+*******************************
+filename:10051.txt
+allword:157
+after remove Stop word:145
+stemm set size : 97
+*******************************
+filename:10052.txt
+allword:130
+after remove Stop word:119
+stemm set size : 85
+*******************************
+filename:10053.txt
+allword:958
+after remove Stop word:901
+stemm set size : 458
+*******************************
+filename:10054.txt
+allword:252
+after remove Stop word:220
+stemm set size : 136
+*******************************
+filename:10055.txt
+allword:214
+after remove Stop word:185
+stemm set size : 120
+*******************************
+filename:10056.txt
+allword:267
+after remove Stop word:244
+stemm set size : 132
+*******************************
+filename:10057.txt
+allword:128
+after remove Stop word:116
+stemm set size : 82
+*******************************
+filename:10058.txt
+allword:1987
+after remove Stop word:1909
+stemm set size : 791
+*******************************
+filename:10059.txt
+allword:921
+after remove Stop word:874
+stemm set size : 384
+*******************************
+filename:1006.txt
+allword:102
+after remove Stop word:87
+stemm set size : 70
+*******************************
+filename:10060.txt
+allword:153
+after remove Stop word:136
+stemm set size : 95
+*******************************
+filename:10061.txt
+allword:122
+after remove Stop word:111
+stemm set size : 79
+*******************************
+filename:10062.txt
+allword:195
+after remove Stop word:179
+stemm set size : 116
+*******************************
+filename:10063.txt
+allword:221
+after remove Stop word:199
+stemm set size : 125
+*******************************
+filename:10064.txt
+allword:46
+after remove Stop word:39
+stemm set size : 33
+*******************************
+filename:10065.txt
+allword:168
+after remove Stop word:153
+stemm set size : 96
+*******************************
+filename:10066.txt
+allword:122
+after remove Stop word:113
+stemm set size : 78
+*******************************
+filename:10067.txt
+allword:335
+after remove Stop word:303
+stemm set size : 183
+*******************************
+filename:10068.txt
+allword:220
+after remove Stop word:203
+stemm set size : 115
+*******************************
+filename:10069.txt
+allword:120
+after remove Stop word:105
+stemm set size : 85
+*******************************
+filename:1007.txt
+allword:50
+after remove Stop word:40
+stemm set size : 32
+*******************************
+filename:10070.txt
+allword:885
+after remove Stop word:827
+stemm set size : 390
+*******************************
+filename:10071.txt
+allword:172
+after remove Stop word:151
+stemm set size : 90
+*******************************
+filename:10072.txt
+allword:630
+after remove Stop word:593
+stemm set size : 320
+*******************************
+filename:10073.txt
+allword:473
+after remove Stop word:438
+stemm set size : 220
+*******************************
+filename:10074.txt
+allword:158
+after remove Stop word:142
+stemm set size : 96
+*******************************
+filename:10075.txt
+allword:455
+after remove Stop word:435
+stemm set size : 224
+*******************************
+filename:10076.txt
+allword:60
+after remove Stop word:48
+stemm set size : 44
+*******************************
+filename:10077.txt
+allword:135
+after remove Stop word:120
+stemm set size : 81
+*******************************
+filename:10078.txt
+allword:190
+after remove Stop word:177
+stemm set size : 134
+*******************************
+filename:10079.txt
+allword:276
+after remove Stop word:260
+stemm set size : 143
+*******************************
+filename:1008.txt
+allword:25
+after remove Stop word:21
+stemm set size : 20
+*******************************
+filename:10080.txt
+allword:796
+after remove Stop word:748
+stemm set size : 334
+*******************************
+filename:10081.txt
+allword:1143
+after remove Stop word:1099
+stemm set size : 474
+*******************************
+filename:10082.txt
+allword:74
+after remove Stop word:64
+stemm set size : 56
+*******************************
+filename:10083.txt
+allword:119
+after remove Stop word:105
+stemm set size : 69
+*******************************
+filename:10084.txt
+allword:111
+after remove Stop word:99
+stemm set size : 78
+*******************************
+filename:10085.txt
+allword:175
+after remove Stop word:159
+stemm set size : 100
+*******************************
+filename:10086.txt
+allword:178
+after remove Stop word:159
+stemm set size : 102
+*******************************
+filename:10087.txt
+allword:208
+after remove Stop word:184
+stemm set size : 121
+*******************************
+filename:10088.txt
+allword:235
+after remove Stop word:220
+stemm set size : 128
+*******************************
+filename:10089.txt
+allword:218
+after remove Stop word:193
+stemm set size : 132
+*******************************
+filename:1009.txt
+allword:91
+after remove Stop word:87
+stemm set size : 53
+*******************************
+filename:10090.txt
+allword:133
+after remove Stop word:120
+stemm set size : 78
+*******************************
+filename:10091.txt
+allword:70
+after remove Stop word:57
+stemm set size : 47
+*******************************
+filename:10092.txt
+allword:937
+after remove Stop word:889
+stemm set size : 432
+*******************************
+filename:10093.txt
+allword:909
+after remove Stop word:870
+stemm set size : 342
+*******************************
+filename:10094.txt
+allword:737
+after remove Stop word:688
+stemm set size : 345
+*******************************
+filename:10095.txt
+allword:424
+after remove Stop word:407
+stemm set size : 255
+*******************************
+filename:10096.txt
+allword:1748
+after remove Stop word:1677
+stemm set size : 688
+*******************************
+filename:10097.txt
+allword:205
+after remove Stop word:186
+stemm set size : 111
+*******************************
+filename:10098.txt
+allword:1801
+after remove Stop word:1729
+stemm set size : 609
+*******************************
+filename:10099.txt
+allword:176
+after remove Stop word:164
+stemm set size : 112
+*******************************
+filename:101.txt
+allword:66
+after remove Stop word:55
+stemm set size : 43
+*******************************
+filename:1010.txt
+allword:108
+after remove Stop word:102
+stemm set size : 62
+*******************************
+filename:10100.txt
+allword:175
+after remove Stop word:166
+stemm set size : 92
+*******************************
+filename:10101.txt
+allword:48
+after remove Stop word:41
+stemm set size : 39
+*******************************
+filename:10102.txt
+allword:623
+after remove Stop word:586
+stemm set size : 269
+*******************************
+filename:10103.txt
+allword:140
+after remove Stop word:131
+stemm set size : 88
+*******************************
+filename:10104.txt
+allword:759
+after remove Stop word:716
+stemm set size : 324
+*******************************
+filename:10105.txt
+allword:348
+after remove Stop word:310
+stemm set size : 173
+*******************************
+filename:10106.txt
+allword:1171
+after remove Stop word:1101
+stemm set size : 524
+*******************************
+filename:10107.txt
+allword:217
+after remove Stop word:202
+stemm set size : 132
+*******************************
+filename:10108.txt
+allword:251
+after remove Stop word:236
+stemm set size : 138
+*******************************
+filename:10109.txt
+allword:1454
+after remove Stop word:1391
+stemm set size : 472
+*******************************
+filename:1011.txt
+allword:111
+after remove Stop word:94
+stemm set size : 65
+*******************************
+filename:10110.txt
+allword:1104
+after remove Stop word:1052
+stemm set size : 516
+*******************************
+filename:10111.txt
+allword:970
+after remove Stop word:914
+stemm set size : 482
+*******************************
+filename:10112.txt
+allword:96
+after remove Stop word:91
+stemm set size : 65
+*******************************
+filename:10113.txt
+allword:52
+after remove Stop word:47
+stemm set size : 41
+*******************************
+filename:10114.txt
+allword:35
+after remove Stop word:31
+stemm set size : 27
+*******************************
+filename:10115.txt
+allword:52
+after remove Stop word:44
+stemm set size : 35
+*******************************
+filename:10116.txt
+allword:149
+after remove Stop word:137
+stemm set size : 98
+*******************************
+filename:10117.txt
+allword:155
+after remove Stop word:139
+stemm set size : 105
+*******************************
+filename:10118.txt
+allword:82
+after remove Stop word:73
+stemm set size : 49
+*******************************
+filename:10119.txt
+allword:165
+after remove Stop word:148
+stemm set size : 86
+*******************************
+filename:1012.txt
+allword:140
+after remove Stop word:130
+stemm set size : 83
+*******************************
+filename:10120.txt
+allword:234
+after remove Stop word:207
+stemm set size : 137
+*******************************
+filename:10121.txt
+allword:30
+after remove Stop word:28
+stemm set size : 25
+*******************************
+filename:10122.txt
+allword:664
+after remove Stop word:623
+stemm set size : 279
+*******************************
+filename:10123.txt
+allword:769
+after remove Stop word:727
+stemm set size : 314
+*******************************
+filename:10124.txt
+allword:167
+after remove Stop word:151
+stemm set size : 112
+*******************************
+filename:10125.txt
+allword:216
+after remove Stop word:195
+stemm set size : 112
+*******************************
+filename:10126.txt
+allword:233
+after remove Stop word:209
+stemm set size : 133
+*******************************
+filename:10127.txt
+allword:232
+after remove Stop word:210
+stemm set size : 128
+*******************************
+filename:10128.txt
+allword:174
+after remove Stop word:151
+stemm set size : 93
+*******************************
+filename:10129.txt
+allword:136
+after remove Stop word:123
+stemm set size : 80
+*******************************
+filename:1013.txt
+allword:71
+after remove Stop word:67
+stemm set size : 53
+*******************************
+filename:10130.txt
+allword:301
+after remove Stop word:276
+stemm set size : 159
+*******************************
+filename:10131.txt
+allword:128
+after remove Stop word:113
+stemm set size : 69
+*******************************
+filename:10132.txt
+allword:105
+after remove Stop word:95
+stemm set size : 71
+*******************************
+filename:10133.txt
+allword:867
+after remove Stop word:810
+stemm set size : 384
+*******************************
+filename:10134.txt
+allword:1864
+after remove Stop word:1792
+stemm set size : 716
+*******************************
+filename:10135.txt
+allword:474
+after remove Stop word:434
+stemm set size : 262
+*******************************
+filename:10136.txt
+allword:34
+after remove Stop word:25
+stemm set size : 24
+*******************************
+filename:10137.txt
+allword:100
+after remove Stop word:88
+stemm set size : 69
+*******************************
+filename:10138.txt
+allword:142
+after remove Stop word:123
+stemm set size : 82
+*******************************
+filename:10139.txt
+allword:90
+after remove Stop word:78
+stemm set size : 57
+*******************************
+filename:1014.txt
+allword:92
+after remove Stop word:83
+stemm set size : 64
+*******************************
+filename:10140.txt
+allword:90
+after remove Stop word:76
+stemm set size : 61
+*******************************
+filename:10141.txt
+allword:369
+after remove Stop word:347
+stemm set size : 207
+*******************************
+filename:10142.txt
+allword:356
+after remove Stop word:329
+stemm set size : 188
+*******************************
+filename:10143.txt
+allword:156
+after remove Stop word:138
+stemm set size : 89
+*******************************
+filename:10144.txt
+allword:55
+after remove Stop word:46
+stemm set size : 40
+*******************************
+filename:10145.txt
+allword:100
+after remove Stop word:86
+stemm set size : 59
+*******************************
+filename:10146.txt
+allword:86
+after remove Stop word:71
+stemm set size : 57
+*******************************
+filename:10147.txt
+allword:144
+after remove Stop word:132
+stemm set size : 88
+*******************************
+filename:10148.txt
+allword:86
+after remove Stop word:81
+stemm set size : 51
+*******************************
+filename:10149.txt
+allword:1383
+after remove Stop word:1308
+stemm set size : 548
+*******************************
+filename:1015.txt
+allword:234
+after remove Stop word:208
+stemm set size : 124
+*******************************
+filename:10150.txt
+allword:284
+after remove Stop word:267
+stemm set size : 157
+*******************************
+filename:10151.txt
+allword:69
+after remove Stop word:60
+stemm set size : 49
+*******************************
+filename:10152.txt
+allword:59
+after remove Stop word:50
+stemm set size : 37
+*******************************
+filename:10153.txt
+allword:257
+after remove Stop word:236
+stemm set size : 148
+*******************************
+filename:10154.txt
+allword:221
+after remove Stop word:205
+stemm set size : 116
+*******************************
+filename:10155.txt
+allword:111
+after remove Stop word:102
+stemm set size : 74
+*******************************
+filename:10156.txt
+allword:129
+after remove Stop word:111
+stemm set size : 81
+*******************************
+filename:10157.txt
+allword:355
+after remove Stop word:331
+stemm set size : 194
+*******************************
+filename:10158.txt
+allword:383
+after remove Stop word:360
+stemm set size : 176
+*******************************
+filename:10159.txt
+allword:538
+after remove Stop word:512
+stemm set size : 267
+*******************************
+filename:1016.txt
+allword:153
+after remove Stop word:134
+stemm set size : 94
+*******************************
+filename:10160.txt
+allword:176
+after remove Stop word:163
+stemm set size : 108
+*******************************
+filename:10161.txt
+allword:250
+after remove Stop word:235
+stemm set size : 111
+*******************************
+filename:10162.txt
+allword:44
+after remove Stop word:38
+stemm set size : 34
+*******************************
+filename:10163.txt
+allword:229
+after remove Stop word:209
+stemm set size : 129
+*******************************
+filename:10164.txt
+allword:116
+after remove Stop word:103
+stemm set size : 70
+*******************************
+filename:10165.txt
+allword:173
+after remove Stop word:159
+stemm set size : 110
+*******************************
+filename:10166.txt
+allword:220
+after remove Stop word:211
+stemm set size : 132
+*******************************
+filename:10167.txt
+allword:247
+after remove Stop word:228
+stemm set size : 136
+*******************************
+filename:10168.txt
+allword:197
+after remove Stop word:180
+stemm set size : 118
+*******************************
+filename:10169.txt
+allword:173
+after remove Stop word:158
+stemm set size : 102
+*******************************
+filename:1017.txt
+allword:844
+after remove Stop word:787
+stemm set size : 366
+*******************************
+filename:10170.txt
+allword:927
+after remove Stop word:875
+stemm set size : 370
+*******************************
+filename:10171.txt
+allword:137
+after remove Stop word:122
+stemm set size : 88
+*******************************
+filename:10172.txt
+allword:341
+after remove Stop word:318
+stemm set size : 172
+*******************************
+filename:10173.txt
+allword:831
+after remove Stop word:771
+stemm set size : 376
+*******************************
+filename:10174.txt
+allword:375
+after remove Stop word:348
+stemm set size : 172
+*******************************
+filename:10175.txt
+allword:991
+after remove Stop word:934
+stemm set size : 422
+*******************************
+filename:10176.txt
+allword:1515
+after remove Stop word:1444
+stemm set size : 672
+*******************************
+filename:10177.txt
+allword:212
+after remove Stop word:190
+stemm set size : 110
+*******************************
+filename:10178.txt
+allword:144
+after remove Stop word:131
+stemm set size : 83
+*******************************
+filename:10179.txt
+allword:2148
+after remove Stop word:2070
+stemm set size : 855
+*******************************
+filename:1018.txt
+allword:74
+after remove Stop word:62
+stemm set size : 47
+*******************************
+filename:10180.txt
+allword:115
+after remove Stop word:105
+stemm set size : 71
+*******************************
+filename:10181.txt
+allword:550
+after remove Stop word:516
+stemm set size : 260
+*******************************
+filename:10182.txt
+allword:330
+after remove Stop word:307
+stemm set size : 163
+*******************************
+filename:10183.txt
+allword:155
+after remove Stop word:146
+stemm set size : 94
+*******************************
+filename:10184.txt
+allword:123
+after remove Stop word:108
+stemm set size : 77
+*******************************
+filename:10185.txt
+allword:128
+after remove Stop word:115
+stemm set size : 71
+*******************************
+filename:10186.txt
+allword:205
+after remove Stop word:188
+stemm set size : 128
+*******************************
+filename:10187.txt
+allword:47
+after remove Stop word:39
+stemm set size : 35
+*******************************
+filename:10188.txt
+allword:224
+after remove Stop word:206
+stemm set size : 128
+*******************************
+filename:10189.txt
+allword:1409
+after remove Stop word:1352
+stemm set size : 582
+*******************************
+filename:1019.txt
+allword:85
+after remove Stop word:83
+stemm set size : 50
+*******************************
+filename:10190.txt
+allword:395
+after remove Stop word:370
+stemm set size : 224
+*******************************
+filename:10191.txt
+allword:1431
+after remove Stop word:1380
+stemm set size : 643
+*******************************
+filename:10192.txt
+allword:176
+after remove Stop word:162
+stemm set size : 107
+*******************************
+filename:10193.txt
+allword:1043
+after remove Stop word:977
+stemm set size : 478
+*******************************
+filename:10194.txt
+allword:129
+after remove Stop word:107
+stemm set size : 80
+*******************************
+filename:10195.txt
+allword:113
+after remove Stop word:90
+stemm set size : 68
+*******************************
+filename:10196.txt
+allword:138
+after remove Stop word:120
+stemm set size : 92
+*******************************
+filename:10197.txt
+allword:74
+after remove Stop word:63
+stemm set size : 50
+*******************************
+filename:10198.txt
+allword:184
+after remove Stop word:175
+stemm set size : 120
+*******************************
+filename:10199.txt
+allword:36
+after remove Stop word:30
+stemm set size : 28
+*******************************
+filename:102.txt
+allword:73
+after remove Stop word:65
+stemm set size : 50
+*******************************
+filename:1020.txt
+allword:231
+after remove Stop word:221
+stemm set size : 97
+*******************************
+filename:1021.txt
+allword:68
+after remove Stop word:63
+stemm set size : 57
+*******************************
+filename:1022.txt
+allword:119
+after remove Stop word:102
+stemm set size : 65
+*******************************
+filename:1023.txt
+allword:1013
+after remove Stop word:953
+stemm set size : 421
+*******************************
+filename:1024.txt
+allword:76
+after remove Stop word:62
+stemm set size : 53
+*******************************
+filename:1025.txt
+allword:54
+after remove Stop word:47
+stemm set size : 39
+*******************************
+filename:1026.txt
+allword:222
+after remove Stop word:213
+stemm set size : 108
+*******************************
+filename:1027.txt
+allword:1219
+after remove Stop word:1148
+stemm set size : 460
+*******************************
+filename:1028.txt
+allword:336
+after remove Stop word:307
+stemm set size : 180
+*******************************
+filename:1029.txt
+allword:292
+after remove Stop word:263
+stemm set size : 153
+*******************************
+filename:103.txt
+allword:107
+after remove Stop word:94
+stemm set size : 68
+*******************************
+filename:1030.txt
+allword:1376
+after remove Stop word:1319
+stemm set size : 550
+*******************************
+filename:1031.txt
+allword:319
+after remove Stop word:306
+stemm set size : 156
+*******************************
+filename:1032.txt
+allword:190
+after remove Stop word:174
+stemm set size : 107
+*******************************
+filename:1033.txt
+allword:113
+after remove Stop word:107
+stemm set size : 73
+*******************************
+filename:1034.txt
+allword:143
+after remove Stop word:125
+stemm set size : 84
+*******************************
+filename:1035.txt
+allword:645
+after remove Stop word:607
+stemm set size : 295
+*******************************
+filename:1036.txt
+allword:1517
+after remove Stop word:1440
+stemm set size : 709
+*******************************
+filename:1037.txt
+allword:101
+after remove Stop word:85
+stemm set size : 60
+*******************************
+filename:1038.txt
+allword:101
+after remove Stop word:90
+stemm set size : 62
+*******************************
+filename:1039.txt
+allword:92
+after remove Stop word:73
+stemm set size : 59
+*******************************
+filename:104.txt
+allword:120
+after remove Stop word:99
+stemm set size : 74
+*******************************
+filename:1040.txt
+allword:281
+after remove Stop word:267
+stemm set size : 156
+*******************************
+filename:1041.txt
+allword:127
+after remove Stop word:109
+stemm set size : 80
+*******************************
+filename:1042.txt
+allword:215
+after remove Stop word:205
+stemm set size : 120
+*******************************
+filename:1043.txt
+allword:1059
+after remove Stop word:1001
+stemm set size : 542
+*******************************
+filename:1044.txt
+allword:1243
+after remove Stop word:1175
+stemm set size : 564
+*******************************
+filename:1045.txt
+allword:571
+after remove Stop word:530
+stemm set size : 269
+*******************************
+filename:1046.txt
+allword:138
+after remove Stop word:122
+stemm set size : 80
+*******************************
+filename:1047.txt
+allword:156
+after remove Stop word:141
+stemm set size : 81
+*******************************
+filename:1048.txt
+allword:122
+after remove Stop word:107
+stemm set size : 71
+*******************************
+filename:1049.txt
+allword:288
+after remove Stop word:261
+stemm set size : 152
+*******************************
+filename:105.txt
+allword:79
+after remove Stop word:64
+stemm set size : 50
+*******************************
+filename:1050.txt
+allword:134
+after remove Stop word:125
+stemm set size : 87
+*******************************
+filename:1051.txt
+allword:54
+after remove Stop word:43
+stemm set size : 33
+*******************************
+filename:1052.txt
+allword:133
+after remove Stop word:123
+stemm set size : 84
+*******************************
+filename:1053.txt
+allword:216
+after remove Stop word:191
+stemm set size : 135
+*******************************
+filename:1054.txt
+allword:387
+after remove Stop word:358
+stemm set size : 193
+*******************************
+filename:1055.txt
+allword:786
+after remove Stop word:736
+stemm set size : 433
+*******************************
+filename:1056.txt
+allword:105
+after remove Stop word:93
+stemm set size : 66
+*******************************
+filename:1057.txt
+allword:327
+after remove Stop word:293
+stemm set size : 171
+*******************************
+filename:1058.txt
+allword:151
+after remove Stop word:136
+stemm set size : 96
+*******************************
+filename:1059.txt
+allword:294
+after remove Stop word:263
+stemm set size : 162
+*******************************
+filename:106.txt
+allword:78
+after remove Stop word:66
+stemm set size : 50
+*******************************
+filename:1060.txt
+allword:54
+after remove Stop word:44
+stemm set size : 37
+*******************************
+filename:1061.txt
+allword:82
+after remove Stop word:69
+stemm set size : 56
+*******************************
+filename:1062.txt
+allword:151
+after remove Stop word:134
+stemm set size : 89
+*******************************
+filename:1063.txt
+allword:374
+after remove Stop word:335
+stemm set size : 193
+*******************************
+filename:1064.txt
+allword:66
+after remove Stop word:55
+stemm set size : 46
+*******************************
+filename:1065.txt
+allword:626
+after remove Stop word:593
+stemm set size : 292
+*******************************
+filename:1066.txt
+allword:261
+after remove Stop word:242
+stemm set size : 158
+*******************************
+filename:1067.txt
+allword:33
+after remove Stop word:28
+stemm set size : 25
+*******************************
+filename:1068.txt
+allword:3408
+after remove Stop word:3310
+stemm set size : 1204
+*******************************
+filename:1069.txt
+allword:22
+after remove Stop word:18
+stemm set size : 17
+*******************************
+filename:107.txt
+allword:76
+after remove Stop word:60
+stemm set size : 50
+*******************************
+filename:1070.txt
+allword:116
+after remove Stop word:106
+stemm set size : 72
+*******************************
+filename:1071.txt
+allword:202
+after remove Stop word:183
+stemm set size : 117
+*******************************
+filename:1072.txt
+allword:99
+after remove Stop word:90
+stemm set size : 67
+*******************************
+filename:1073.txt
+allword:178
+after remove Stop word:163
+stemm set size : 102
+*******************************
+filename:1074.txt
+allword:784
+after remove Stop word:747
+stemm set size : 383
+*******************************
+filename:1075.txt
+allword:100
+after remove Stop word:88
+stemm set size : 64
+*******************************
+filename:1076.txt
+allword:1447
+after remove Stop word:1373
+stemm set size : 565
+*******************************
+filename:1077.txt
+allword:97
+after remove Stop word:90
+stemm set size : 68
+*******************************
+filename:1078.txt
+allword:109
+after remove Stop word:95
+stemm set size : 73
+*******************************
+filename:1079.txt
+allword:67
+after remove Stop word:58
+stemm set size : 49
+*******************************
+filename:108.txt
+allword:122
+after remove Stop word:112
+stemm set size : 87
+*******************************
+filename:1080.txt
+allword:136
+after remove Stop word:130
+stemm set size : 69
+*******************************
+filename:1081.txt
+allword:185
+after remove Stop word:164
+stemm set size : 106
+*******************************
+filename:1082.txt
+allword:196
+after remove Stop word:175
+stemm set size : 106
+*******************************
+filename:1083.txt
+allword:46
+after remove Stop word:38
+stemm set size : 33
+*******************************
+filename:1084.txt
+allword:64
+after remove Stop word:60
+stemm set size : 36
+*******************************
+filename:1085.txt
+allword:107
+after remove Stop word:100
+stemm set size : 73
+*******************************
+filename:1086.txt
+allword:497
+after remove Stop word:471
+stemm set size : 183
+*******************************
+filename:1087.txt
+allword:85
+after remove Stop word:79
+stemm set size : 51
