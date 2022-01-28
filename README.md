@@ -4,6 +4,7 @@ a sample project for load dataset of documents and do normalize ,tokenize ,remov
 on this project I use python and java script languege 
 in python for text mining use Hazm algorithm url :https://pypi.org/project/hazm/
 and for api interface  use flask url:https://pypi.org/project/Flask/
+
 so befor use make shore install this library on your python 
 
 ////////////////////////////////////////////////////
